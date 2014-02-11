@@ -39,7 +39,7 @@ class Graph:
 			self.insertEdge(words[0], words[1])
 
 	def dfs_visit(self, start):
-		
+		#actual recursive dfs
 		self.dfs_time += 1
 		print "Currently at ", start
 		current = self.vertex_id_to_object[start]
