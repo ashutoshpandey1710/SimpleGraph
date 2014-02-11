@@ -1,0 +1,6 @@
+gandalf	aragorn
+robin	batman
+gandalf	batman
+joker	gandalf
+aragorn	gimli
+gimli	batman
